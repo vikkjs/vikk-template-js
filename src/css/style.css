@@ -36,8 +36,8 @@ h1 {
     filter: drop-shadow(0 0 2em #646cffaa);
 }
 
-.logo.logots:hover {
-    filter: drop-shadow(0 0 2em #3178c6aa);
+.logo.logojs:hover {
+    filter: drop-shadow(0 0 2em #ffff0066);
 }
 
 .logo.logovikk:hover {
