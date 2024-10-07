@@ -1,6 +1,6 @@
 import javascriptLogo from '/javascript.svg'
+import vikkLogo from '/vikk.png'
 import viteLogo from '/vite.svg'
-
 
 export function App() {
     return <div>
